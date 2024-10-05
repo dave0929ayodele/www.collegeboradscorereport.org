@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAT Score Report - March 8th, 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="score-container">
+        <div class="header">
+            <h2>My Scores</h2>
+        </div>
+
+        <div class="score-report">
+            <div class="score-header">
+                <h3>SAT School Day Spring 2024 Administration</h3>
+                <p>March 8, 2024 &nbsp;|&nbsp; 11th Grade</p>
+            </div>
+
+            <div class="total-score">
+                <h4>Your Total Score</h4>
+                <span class="score">1270</span>
+                <p class="range">400 to 1600</p>
+            </div>
+
+            <div class="section-scores">
+                <div class="section">
+                    <p>Your Reading and Writing Score</p>
+                    <span class="score">640</span>
+                    <p class="range">200 to 800</p>
+                </div>
+                <div class="section">
+                    <p>Your Math Score</p>
+                    <span class="score">630</span>
+                    <p class="range">200 to 800</p>
+                </div>
+            </div>
+
+            <div class="next-arrow">
+                <a href="#"><img src="arrow.png" alt="Next"></a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
